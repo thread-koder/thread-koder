@@ -39,7 +39,7 @@ ___
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23007ACC.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![BASH](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=bash&logoColor=black&color=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-%4479A1.svg?style=for-the-badge&logo=Postgresql&logoColor=white&color=4479A1)
 ![Mongodb](https://img.shields.io/badge/mongodb-%4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=13aa52)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
