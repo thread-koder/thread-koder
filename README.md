@@ -24,9 +24,9 @@ ___
 
 ## My Github stats
 
-![Thread Koder' Stats](https://github-readme-stats.vercel.app/api?username=thread-koder&show_icons=true&title_color=1D57B9&text_color=f5f5f5&bg_color=000000&icon_color=1D57B9&hide_border=true)
+![Thread Koder' Stats](https://github-readme-stats.vercel.app/api?username=thread-koder&show_icons=true&title_color=673ab7&text_color=f5f5f5&bg_color=000000&icon_color=673ab7&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thread-koder&layout=compact&title_color=1D57B9&text_color=f5f5f5&bg_color=000000&icon_color=1D57B9&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thread-koder&layout=compact&title_color=673ab7&text_color=f5f5f5&bg_color=000000&icon_color=673ab7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
